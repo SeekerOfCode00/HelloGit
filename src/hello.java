@@ -13,5 +13,7 @@ public class hello {
 	public static void main(String args[]) {
 		System.out.println("Hello World, my name is Fisher Cyza!");
 		System.out.println("I'm a Computer Engineering Major!");
+		System.out.println("Hello World, my name is Julia Clausen!");
+		System.out.println("I'm a Computer Computer Science!");
 	}
 }
